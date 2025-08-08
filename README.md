@@ -42,16 +42,16 @@ This project analyzes sales data from a fictional    e-commerce superstore to un
 ## 🖼️ Sample Visualizations
 
 ### Monthly Sales Trend
-![Monthly Sales Trend](plot/Monthly_Sales_Trend.png)
+![Monthly Sales Trend](Plot/Monthly_Sales_Trend.png)
 
 ### Sales by Category
-![Sales by Category](plot/Total Sales by Product Category.png)
+![Sales by Category](Plot/Total Sales by Product Category.png)
 
 ### Top 10 Products
-![Top Products](plot/Top 10 Products by Sales.png)
+![Top Products](Plot/Top 10 Products by Sales.png)
 
 ### Sales by Region
-![Region Sales](plot/Sales Distribution by Regio.png)
+![Region Sales](Plot/Sales Distribution by Regio.png)
 
 ---
 ## 🛠️ How to View This Project
