@@ -51,7 +51,7 @@ This project analyzes sales data from a fictional    e-commerce superstore to un
 ![Top Products](Plot/Top_10_Products_by_Sales.png)
 
 ### Sales by Region
-![Region Sales](Plot/Sales Distribution by Regio.png)
+![Region Sales](Plot/Sales_Distribution_by_Region.png)
 
 ---
 ## 🛠️ How to View This Project
