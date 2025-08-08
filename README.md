@@ -47,6 +47,9 @@ This project analyzes sales data from a fictional    e-commerce superstore to un
 ### Sales by Category
 ![Sales by Category](Plot/Total_Sales_by_Product_Category.png)
 
+### Sales by Sub-Category
+![Sales_by_SubCategory](sales_profit_subcatg.png)
+
 ### Top 10 Products
 ![Top Products](Plot/Top_10_Products_by_Sales.png)
 
