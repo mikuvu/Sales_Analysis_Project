@@ -67,4 +67,19 @@ This project analyzes sales data from a fictional    e-commerce superstore to un
 3. Run the notebook to see the full analysis and visualizations
 
 ---
+## 🧪 Requirements
 
+To run this project locally, you need:
+
+- **Python 3.x**
+- Libraries:
+  - `pandas`
+  - `numpy`
+  - `matplotlib`
+  - `seaborn`
+  - `jupyter`
+
+You can install them using:
+
+```bash
+pip install -r requirements.txt
